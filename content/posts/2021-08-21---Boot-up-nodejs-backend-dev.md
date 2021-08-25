@@ -14,7 +14,7 @@ description: "javascript 코린이 탈출을 위한 몸부림"
 socialImage: "/media/nodejs/nodejs_bg.png"
 ---
 
-![nodejs_bg](/media/nodejs/nodejs_bg.png)
+[![nodejs_bg](/media/nodejs/nodejs_bg.png)](https://programmers.co.kr/learn/courses/12547)
 
 [실무와 가까워지는 Node.js 백엔드 개발](https://programmers.co.kr/learn/courses/12547)에 참가 신청했습니다. 경험해보지 못한 javascript, nodejs 쪽 경험도 쌓고싶고 다른 회사는 어떻게 일하는지, 어떻게 코드리뷰하는지 궁금하기도 했고 같이 공부하는 분도 참여하신다길래 겸사겸사 시도해보았습니다.
 
