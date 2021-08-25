@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://tess.dev',
+  url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by bart',
-  subtitle: '기록',
+  title: 'Blog by John Doe',
+  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
-  disqusShortname: 'tess-dev',
-  postsPerPage: 6,
-  googleAnalyticsId: 'UA-135466470-1',
+  disqusShortname: '',
+  postsPerPage: 4,
+  googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
@@ -20,30 +20,31 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Resume',
-      path: '/pages/resume'
+      label: 'Contact me',
+      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Bart',
+    name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Software engineer',
+    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: 'bart.lee@kakao.com',
-      twitter: 'elfinxx',
-      github: 'bart-lee-x',
-      facebook: '',
-      telegram: '',
+      email: '',
+      facebook: '#',
+      telegram: '#',
+      twitter: '#',
+      github: '#',
       rss: '',
       vkontakte: '',
-      linkedin: 'bart-lee',
-      instagram: '',
+      linkedin: '#',
+      instagram: '#',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
+      medium: '',
     }
   }
 };
