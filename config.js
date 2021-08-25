@@ -42,8 +42,9 @@ module.exports = {
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'https://www.youtube.com/channel/UC5tZ01703qpXPxhSWKixuoQ',
       soundcloud: '',
+      medium: '',
     }
   }
 };
